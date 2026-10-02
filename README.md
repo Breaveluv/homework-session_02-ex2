@@ -66,4 +66,3 @@ root
 | **Nhóm** | `sudo` |
 | **Lệnh kết nối** | `ssh -i ~/.ssh/id_ed25519 devops@<IP>` |
 
-> 📸 Chụp màn hình Terminal hiển thị kết quả `sudo whoami` → `root`, lưu vào `screenshots/`.
